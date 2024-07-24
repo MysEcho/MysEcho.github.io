@@ -39,8 +39,8 @@ author:
   author__avatar: '/images/ski.jpg'
 
 social:
-- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/praveenVnktsh/"}
-- {icon: "ion-logo-github", link: "https://github.com/praveenVnktsh"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/antareep-singha-10a0b5165/"}
+- {icon: "ion-logo-github", link: "https://github.com/MysEcho"}
 - {icon: "ion-logo-twitter", link: "https://twitter.com/praveenVnktsh"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
