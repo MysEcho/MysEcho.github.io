@@ -1,62 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Antareep Singha - Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="https://kit.fontawesome.com/your-fontawesome-kit.js" crossorigin="anonymous"></script>
-</head>
-<body>
-    <header>
-        <div class="logo">AS</div>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#achievements">Achievements</a></li>
-                <li><a href="#research">Research</a></li>
-                <li><a href="#non-academic">Non Academic</a></li>
-            </ul>
-        </nav>
-        <button id="dark-mode-toggle">🌙</button>
-    </header>
+---
+layout: default
+logo: '/images/Logo.png'
+title: Praveen Venkatesh
+tagline: Praveen's personal website
+author:
+    name: Praveen Venkatesh
+carousels:
+  - images: 
+    - image: ../images/medals_1.JPG
+      desc: Convocation | Receiving medals from Dr. Krishnaswamy VijayRaghavan
+    - image: ../images/deanslist.jpg
+      desc: Receiving Dean's List from Prof Atul
+    - image: ../images/aml_2.jpg
+      desc: With "Moon man" Dr J.N. Goswami @ Amalthea '18
+    - image: ../images/iitroorkee.jpg
+      desc: Inter IIT Bhubaneswar vs IIT Roorkee team
+    - image: ../images/invent.jpg
+      desc: Invent@IITGN 2019
+    - image: ../images/latex.jpg
+      desc: Team LaTeX 2018
+---
 
-    <main>
-        <section id="home" class="hero">
-            <div class="hero-content">
-                <img src="images/profile.jpg" alt="Antareep Singha" class="profile-picture">
-                <h1>Antareep Singha</h1>
-                <p>Hello World! I am a graduate student at [Your University], [Your Department].</p>
-            </div>
-            
-            <div class="carousel">
-                <button class="carousel-button prev">&#10094;</button>
-                <img src="images/image1.jpg" alt="Carousel Image" id="carousel-image">
-                <button class="carousel-button next">&#10095;</button>
-                <p id="image-caption">Team Project 2023</p>
-            </div>
+{% include section-hero.html %}
 
-            <ul class="highlights">
-                <li>Passionate about giving sight to robots.</li>
-                <li>Currently building robotic systems that can assist humans.</li>
-                <li>Love tinkering with robots and experimenting with crazy ideas. Check my projects out <a href="#projects">here</a>.</li>
-                <li>Absolutely love teaching and disseminating knowledge in intuitive ways.</li>
-                <li>Triple Gold Medallist from [Your University]</li>
-            </ul>
+{% include section-about.html %}
 
-            <div class="social-links">
-                <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
-                <a href="#" target="_blank"><i class="fab fa-github"></i></a>
-                <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-            </div>
-        </section>
+{% include section-projects.html %}
 
-        <section id="about">
-            <p>In my spare time, I engage myself in tinkering with electronics and automating my life. I have always firmly believed that we should strive to be the best version of ourselves, and have transformed significantly as a person during my time at [Your University]. I have been part of several student-run groups and developmental projects, and have actively contributed towards improving the sporting and technical culture at the institute.</p>
-        </section>
-    </main>
-
-    <script src="script.js"></script>
-</body>
-</html>
+<!-- {% include section-blog.html %} -->
