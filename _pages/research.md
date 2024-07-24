@@ -5,11 +5,8 @@ permalink: /research/
 ---
 ### Publications
 
-- Praveen Venkatesh*, Rwik Rana*, Varun Jain. 2021. Memory Guided Road Segmentation. Accepted at the 21st International Conference on Image Analysis and Processing, Italy.
+- Antareep Singha*. "A Real-Time Dynamic Image Processing System on Zynq 7010". Accepted at the 3rd International Conference on Advances in Computational Intelligence and Communication, India.
 
-- Harsh Patel*,  Praveen Venkatesh*, Shivam Sahni*, Varun Jain*, Mrinal Anand, Mayank Singh. 2022.Program Synthesis: Does Feedback Help?.  At  5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD) (CODS-COMAD 2022).  
-
-- Gaurav  Viramgami*,  Hitarth  Gandhi*,  Hrushti  Naik*,  Nipun  Mahajan*, Praveen Venkatesh, Shivam Sahni, Mayank Singh. 2022.Indian Classical Music Synthesis.  At  5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD) (CODS-COMAD 2022). 
 
 ### Pre-prints
 

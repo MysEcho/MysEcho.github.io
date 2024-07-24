@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Praveen Venkatesh
+title: Antareep Singha
 logo: '/images/Logo.png'
-description: Praveen's personal website.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+description: Antareep's World
+color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -34,7 +34,7 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Praveen Venkatesh
+  author__name: Antareep Singha
   author__bio: All the world's a stage, And all the men and women merely players - William Shakespeare. What do I want?  Play the game => win :)
   author__avatar: '/images/ski.jpg'
 
@@ -50,16 +50,16 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Praveen Venkatesh
-  hero__description: Hello World! I am a graduate student at Carnegie Mellon University, Robotics Institute. 
+  hero__title: Antareep Singha
+  hero__description: Hello World! I am an Undergraduate Researcher at Robotics Research Center, IIIT Hyderabad. 
   hero__description_points:
     - Passionate about giving sight to robots.
-    - Currently building robotic systems that can assist humans @auxiliorobotics.
+    - Currently building socially aware robotic systems that can navigate in dynamic environments @RRC,IIITH.
     - Love tinkering with robots and experimenting with crazy ideas. Check my projects out here Projects
     - Absolutely love teaching and disseminating knowledge in intuitive ways - my projects always have a visual component to it :)
-    - Triple Gold Medallist from IIT Gandhinagar
+    - Ex-President of RoboVed, Robotics Club of PTU
     
-  hero__image: '/images/ski.jpg'
+  hero__image: '/images/profile.jpg'
 
 
 #-------------------------------
