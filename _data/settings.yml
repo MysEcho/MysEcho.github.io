@@ -3,7 +3,7 @@
 title: Antareep Singha
 logo: '/images/Logo.png'
 description: Antareep's World
-color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -59,7 +59,7 @@ hero:
     - Absolutely love teaching and disseminating knowledge in intuitive ways - my projects always have a visual component to it :)
     - Ex-President of RoboVed, Robotics Club of PTU
     
-  hero__image: '/images/profile.jpg'
+  hero__image: '/images/profile.jpeg'
 
 
 #-------------------------------
