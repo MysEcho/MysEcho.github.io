@@ -36,7 +36,7 @@ menu__settings:
 author:
   author__name: Antareep Singha
   author__bio: All the world's a stage, And all the men and women merely players - William Shakespeare. What do I want?  Play the game => win :)
-  author__avatar: '/images/ski.jpg'
+  author__avatar: '/images/profile.jpeg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/antareep-singha-10a0b5165/"}

@@ -36,8 +36,6 @@ permalink: /achievements/
 
 - 🎓 Secured **Top 5% rank** in the JEE Main 2020 examination out of 10.5 lakh students.
 
-- 🎓 National Topper in Computer Science - Secured 100% in the subject in the AISSCE 2018 examination.
-
 - Part of the school **Football Team** that participated in the national-level competition **Subroto Cup 2019**.
 
 - **Under-14 Cricket Association of Bengal(CAB)** state-level cricket player.  
