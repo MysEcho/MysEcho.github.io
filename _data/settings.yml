@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Antareep Singha
-logo: '/images/Logo.png'
+logo: '/images/logo.jpeg'
 description: Antareep's World
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -35,7 +35,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Antareep Singha
-  author__bio: All the world's a stage, And all the men and women merely players - William Shakespeare. What do I want?  Play the game => win :)
+  author__bio: Hello World
   author__avatar: '/images/profile.jpeg'
 
 social:
