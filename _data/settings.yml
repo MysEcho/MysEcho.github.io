@@ -36,12 +36,12 @@ menu__settings:
 author:
   author__name: Antareep Singha
   author__bio: Hello World
-  author__avatar: '/images/profile.jpeg'
+  author__avatar: '/images/temp.jpeg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/antareep-singha-10a0b5165/"}
 - {icon: "ion-logo-github", link: "https://github.com/MysEcho"}
-- {icon: "ion-logo-twitter", link: "https://twitter.com/praveenVnktsh"}
+- {icon: "ion-logo-instagram", link: "https://twitter.com/praveenVnktsh"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
