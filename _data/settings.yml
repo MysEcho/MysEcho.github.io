@@ -65,14 +65,14 @@ hero:
 #-------------------------------
 # About me page.
 about:
-  main_content: Some things about me
+  main_content: Some cool facts about me
   main_content_desc:
-    - I can solve the 3x3 cube in around 13 seconds and can solve 14 different twisty puzzle derivatives of the 3x3 (Including solving it blindfolded!). Check my World Cubing Association profile here - [Praveen Venkatesh | World Cube Association](praveenvnktsh.github.io)
-    - I go on typeracer and have fun when I feel like it. Its how I can type at 100 WPM :P
-    - Music = ❤️
+    - I don't like to brag but I am a great artist. Check out my drawings on my Instagram.
+    - I was a State-Level Cricket Player back in the day. I even played at Eden Gardens, "The Mecca of Cricket in India".
+    - I can cook really really well. Check out my recipes @bengalicious
     - Competitive Table Tennis player (ex-state player from TN) - find a TT board, I'm up for a match anytime!
-    - I can play the Keyboard
-    - I play a lot of games! (gamerTag - flyingMango)
+    - I love going on adventures.
+    - I have a very cool coin collection. I also collect fridge magnets so much so that we need a new fridge now.
   
 
 
@@ -90,7 +90,7 @@ mailchimp__button__text: Get updates
 # Projects Settings
 projects__settings:
   projects__title: My Works
-  projects__description: Some uber cool things I've done in the past...
+  projects__description: Some cool stuff I've done in the past...
 
 
 #-------------------------------
@@ -186,4 +186,4 @@ contact:
 
 #-------------------------------
 # Google Analytics
-google-analytics: G-CJSQLNX1D1 # Add your GA Tracking Id
+# google-analytics: G-CJSQLNX1D1 # Add your GA Tracking Id
